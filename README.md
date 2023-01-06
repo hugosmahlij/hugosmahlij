@@ -22,7 +22,7 @@
 <a href="https://twitter.com/hugosmahlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugosmahlij" height="30" width="40" /></a>
 </p>
   
-<img align="right" width="400" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47zby2tux081jmqneobzj0k8ydub0k4uisryxnjxoo&rid=giphy.gif&ct=g" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" width="500" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47zby2tux081jmqneobzj0k8ydub0k4uisryxnjxoo&rid=giphy.gif&ct=g" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   
 <h3 align="left">Languages and Tools:</h3>
 
