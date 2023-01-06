@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/15337079/210949214-1e439cc5-2da6-4c52-abfa-9f2e6210966e.png)
+![banner (3)](https://user-images.githubusercontent.com/15337079/210951022-1ab3b621-2e59-4bd4-95b7-b7a9c016633f.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=125&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Hugo+%F0%9F%99%82;Full+Stack+MERN+%2F+Front+%26+Backend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
