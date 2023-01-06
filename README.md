@@ -1,5 +1,4 @@
-![banner (3)](https://user-images.githubusercontent.com/15337079/210951022-1ab3b621-2e59-4bd4-95b7-b7a9c016633f.png)
-
+![banner (1)](https://user-images.githubusercontent.com/15337079/210952016-2e15b21d-7b64-42b0-bef9-b9f3a7829894.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=125&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Hugo+%F0%9F%99%82;Full+Stack+MERN+%2F+Front+%26+Backend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -30,3 +29,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hugosmahlij&theme=bear&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosmahlij&show_icons=true&theme=bear)
+
+![banner (2)](https://user-images.githubusercontent.com/15337079/210952082-3fbe6c8b-f93c-4bdf-9f66-88a003da1272.png)
