@@ -1,6 +1,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/15337079/210952016-2e15b21d-7b64-42b0-bef9-b9f3a7829894.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=125&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Hugo+%F0%9F%99%82;Full+Stack+MERN+%2F+Front+%26+Backend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Hugo+%F0%9F%99%82;Full+Stack+MERN+%2F+Front+%26+Backend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 <h3 align="center">From Argentina 📌 <br/> Trying my best on Javascript and React <br/> I'm down for new projects!<h3>
