@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm a calm person 😌**
 
-<div align="center"><img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47zby2tux081jmqneobzj0k8ydub0k4uisryxnjxoo&rid=giphy.gif&ct=g"  style="position:absolute; left: 700px; width: 350px; bottom: 725px" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div align="center"><img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47zby2tux081jmqneobzj0k8ydub0k4uisryxnjxoo&rid=giphy.gif&ct=g"  style="position:absolute; left: 30em; width: 350px; bottom: 725px" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
