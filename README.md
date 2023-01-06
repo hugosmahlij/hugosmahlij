@@ -30,4 +30,4 @@
 
 <img style="width: 320px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosmahlij&layout=compact&theme=bear)](https://github.com/RocioDuarteBazan/github-readme-stats)</img>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=hugosmahlij&theme=bear&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosmahlij&show_icons=true&theme=bear)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hugosmahlij&theme=bear&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=200)](https://git.io/streak-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosmahlij&show_icons=true&theme=bear&card_width=200)
