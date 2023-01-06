@@ -1,7 +1,6 @@
 ![MasterHead](https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e)
 
-<h1 align="center">Hello 👋, I'm Hugo</h1>
-<h2 align="center">Full Stack MERN / Front & Backend Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Hello+%F0%9F%91%8B;I'm+Hugo+;Full+Stack+MERN+%2F+Front+%26+Backend+Developer)](https://git.io/typing-svg)
 
 ---
 <h3 align="center">Argentina 📌 <br/> Trying my best on Javascript and React <br/> I'm down for new projects!<h3>
