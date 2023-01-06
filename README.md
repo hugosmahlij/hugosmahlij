@@ -7,9 +7,9 @@
 <h3 align="center">Argentina 📌 <br/> Trying my best on Javascript and React <br/> I'm down for new projects!<h3>
 
 ---
-- 📫 How to reach me **smahlij@gmail.com**
+- 📫 How to reach me: **smahlij@gmail.com**
 
-- ⚡ Fun fact **I'm a calm person 😌**
+- ⚡ Fun fact: **I'm a calm person 😌**
 
   
 <div align="center"><img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47zby2tux081jmqneobzj0k8ydub0k4uisryxnjxoo&rid=giphy.gif&ct=g"  style="position: relative;" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
