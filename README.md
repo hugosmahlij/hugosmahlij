@@ -1,9 +1,9 @@
-![MasterHead](https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e)
+![MasterHead](https://user-images.githubusercontent.com/15337079/210949214-1e439cc5-2da6-4c52-abfa-9f2e6210966e.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=125&lines=Hello+%F0%9F%91%8B;I'm+Hugo+;Full+Stack+MERN+%2F+Front+%26+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=125&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Hugo+%F0%9F%99%82;Full+Stack+MERN+%2F+Front+%26+Backend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
-<h3 align="center">Argentina 📌 <br/> Trying my best on Javascript and React <br/> I'm down for new projects!<h3>
+<h3 align="center">From Argentina 📌 <br/> Trying my best on Javascript and React <br/> I'm down for new projects!<h3>
 
 ---
 - 📫 How to reach me: **smahlij@gmail.com**
@@ -13,7 +13,7 @@
 <img align="right" width="250" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47zby2tux081jmqneobzj0k8ydub0k4uisryxnjxoo&rid=giphy.gif&ct=g" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/hugo-smahlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-smahlij" height="30" width="40" /></a>
 <a href="https://discord.gg/Hybrid#7466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hybrid#7466" height="30" width="40" /></a>
 <a href="https://instagram.com/hugosmahlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hugosmahlij" height="30" width="40" /></a>
