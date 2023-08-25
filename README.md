@@ -24,6 +24,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosmahlij&theme=swift&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugosmahlij&theme=swift)
-
 ![banner (2)](https://user-images.githubusercontent.com/15337079/210952082-3fbe6c8b-f93c-4bdf-9f66-88a003da1272.png)
