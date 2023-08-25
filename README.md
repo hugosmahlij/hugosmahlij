@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Hugo+%F0%9F%99%82;Full+Stack+MERN+%2F+Front+%26+Backend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
-<h3 align="center">From Argentina 📌 <br/> Trying my best on Javascript and React <br/> I'm down for new projects!<h3>
+<h3 align="center">From Argentina 📌 <br/> Trying my best on Javascript and Node.js <br/> I'm down for new projects!<h3>
 
 ---
 - 📫 How to reach me: **smahlij@gmail.com**
@@ -12,7 +12,7 @@
   
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/hugo-smahlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-smahlij" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hugosmahlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-smahlij" height="30" width="40" /></a>
 <a href="https://discord.gg/Hybrid#7466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hybrid#7466" height="30" width="40" /></a>
 </p>
   
