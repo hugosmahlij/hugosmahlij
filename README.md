@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/hugosmahlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-smahlij" height="30" width="40" /></a>
-<a href="https://discord.gg/Hybrid#7466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hybrid#7466" height="30" width="40" /></a>
+<a href="https://discord.gg/403forbbiden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hybrid#7466" height="30" width="40" /></a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
